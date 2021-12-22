@@ -45,6 +45,7 @@ export default function Filter() {
             }}
           >
             <option value="all">All</option>
+            <option value="electronics">House</option>
             <option value="electronics">Electronics</option>
             <option value="fashion">fashion</option>
             <option value="mobiles">Mobiles</option>

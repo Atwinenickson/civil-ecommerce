@@ -21,7 +21,7 @@ export default function Review({ product }) {
       }
 
       if (alreadyreviewed) {
-        alert("You have already reviewd this product");
+        alert("You have already reviewed this product");
       } else {
         const review = {
           rating: rating,
